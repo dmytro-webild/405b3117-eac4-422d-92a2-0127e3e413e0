@@ -134,11 +134,11 @@ export default function HomePage() {
           animationType="slide-up"
           metrics={[
             {
-              id: "1",              value: "17+",              title: "Лет опыта",              description: "Лидирующий поставщик с 2008 года",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-workflow-s-1773033990882-ec842b30.png",              imageAlt: "Опыт в молочном производстве"},
+              id: "1",              value: "17+",              title: "Лет опыта",              description: "Лидирующий поставщик с 2008 года",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-workflow-s-1773033990882-ec842b30.png?_wi=1",              imageAlt: "Опыт в молочном производстве"},
             {
-              id: "2",              value: "100+",              title: "Завершено проектов",              description: "От мини-заводов до промышленных комплексов",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-completed-dairy-processing-facili-1773033991118-2dd6f8bf.png",              imageAlt: "Завершенные проекты молочных заводов"},
+              id: "2",              value: "100+",              title: "Завершено проектов",              description: "От мини-заводов до промышленных комплексов",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-completed-dairy-processing-facili-1773033991118-2dd6f8bf.png?_wi=1",              imageAlt: "Завершенные проекты молочных заводов"},
             {
-              id: "3",              value: "50+",              title: "Активных клиентов",              description: "Партнеры по всему миру",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-stainless-steel-milk-coolin-1773033990077-b9db6fba.png",              imageAlt: "Клиентская база Inventa"},
+              id: "3",              value: "50+",              title: "Активных клиентов",              description: "Партнеры по всему миру",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-stainless-steel-milk-coolin-1773033990077-b9db6fba.png?_wi=1",              imageAlt: "Клиентская база Inventa"},
           ]}
         />
       </div>
@@ -155,7 +155,7 @@ export default function HomePage() {
             {
               text: "Связаться",              href: "#contact"},
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-workflow-s-1773033990882-ec842b30.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-workflow-s-1773033990882-ec842b30.png?_wi=2"
           imageAlt="Процесс переработки молока Inventa"
           useInvertedBackground={false}
         />
@@ -173,7 +173,7 @@ export default function HomePage() {
           animationType="slide-up"
           products={[
             {
-              id: "1",              name: "Резервуар охлаждения молока",              price: "По запросу",              variant: "Высокоемкость, полная стерилизация",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-stainless-steel-milk-coolin-1773033990077-b9db6fba.png",              imageAlt: "Резервуар охлаждения молока",              isFavorited: false,
+              id: "1",              name: "Резервуар охлаждения молока",              price: "По запросу",              variant: "Высокоемкость, полная стерилизация",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-stainless-steel-milk-coolin-1773033990077-b9db6fba.png?_wi=2",              imageAlt: "Резервуар охлаждения молока",              isFavorited: false,
             },
             {
               id: "2",              name: "Сепаратор молока",              price: "По запросу",              variant: "Центрифужный, высокая точность",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-centrifugal-separator-for-dairy-p-1773033990844-29882dec.png",              imageAlt: "Сепаратор молока"},
@@ -198,7 +198,7 @@ export default function HomePage() {
           blogs={[
             {
               id: "1",              category: ["Молочный завод", "2023"],
-              title: "HOLA FOODS - Модульный молочный комплекс",              excerpt: "Комплексное решение под ключ для производства молочных продуктов с полной автоматизацией и контролем качества",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-completed-dairy-processing-facili-1773033991118-2dd6f8bf.png",              imageAlt: "Проект HOLA FOODS",              authorName: "Inventa Team",              authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-expert-eng-1773033990173-6ef76f5e.png",              date: "2023"},
+              title: "HOLA FOODS - Модульный молочный комплекс",              excerpt: "Комплексное решение под ключ для производства молочных продуктов с полной автоматизацией и контролем качества",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-completed-dairy-processing-facili-1773033991118-2dd6f8bf.png?_wi=2",              imageAlt: "Проект HOLA FOODS",              authorName: "Inventa Team",              authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-expert-eng-1773033990173-6ef76f5e.png",              date: "2023"},
             {
               id: "2",              category: ["Молочный завод", "2022"],
               title: "MUSA SERVIS - Интегрированная система производства",              excerpt: "Полностью оборудованный молочный комплекс с линией упаковки и системой контроля качества",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-facility-m-1773033990711-8b78b137.png",              imageAlt: "Проект MUSA SERVIS",              authorName: "Inventa Team",              authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/operations-manager-professional-portrait-1773033990825-932aef2f.png",              date: "2022"},
