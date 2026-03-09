@@ -63,7 +63,7 @@ export default function ProjectsPage() {
               title: "HOLA FOODS - Модульный молочный комплекс",
               excerpt:
                 "Комплексное решение под ключ для производства молочных продуктов с полной автоматизацией и контролем качества",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-completed-dairy-processing-facili-1773033991118-2dd6f8bf.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-completed-dairy-processing-facili-1773033991118-2dd6f8bf.png?_wi=2",
               imageAlt: "Проект HOLA FOODS",
               authorName: "Inventa Team",
               authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-expert-eng-1773033990173-6ef76f5e.png",
@@ -167,7 +167,7 @@ export default function ProjectsPage() {
             required: true,
           }}
           useInvertedBackground={false}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-business-meeting-in-modern--1773033989728-1ee45ec2.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-business-meeting-in-modern--1773033989728-1ee45ec2.png?_wi=2"
           imageAlt="Проектное обсуждение"
           mediaAnimation="slide-up"
           mediaPosition="right"
