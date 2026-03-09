@@ -147,10 +147,10 @@ export default function HomePage() {
           animationType="slide-up"
           metrics={[
             {
-              id: "1",              value: "17+",              title: "Лет опыта",              description: "Лидирующий поставщик с 2008 года",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-workflow-s-1773033990882-ec842b30.png?_wi=1",              imageAlt: "Опыт в молочном производстве"
+              id: "1",              value: "100+",              title: "Завершено проектов",              description: "От мини-заводов до промышленных комплексов",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-completed-dairy-processing-facili-1773033991118-2dd6f8bf.png?_wi=1",              imageAlt: "Завершенные проекты молочных заводов"
             },
             {
-              id: "2",              value: "100+",              title: "Завершено проектов",              description: "От мини-заводов до промышленных комплексов",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-completed-dairy-processing-facili-1773033991118-2dd6f8bf.png?_wi=1",              imageAlt: "Завершенные проекты молочных заводов"
+              id: "2",              value: "17+",              title: "Лет опыта",              description: "Лидирующий поставщик с 2008 года",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-workflow-s-1773033990882-ec842b30.png?_wi=1",              imageAlt: "Опыт в молочном производстве"
             },
             {
               id: "3",              value: "50+",              title: "Активных клиентов",              description: "Партнеры по всему миру",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-stainless-steel-milk-coolin-1773033990077-b9db6fba.png?_wi=1",              imageAlt: "Клиентская база Inventa"
