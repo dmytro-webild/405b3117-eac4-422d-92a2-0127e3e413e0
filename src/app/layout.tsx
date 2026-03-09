@@ -11,7 +11,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Inventa - Молочное оборудование",  description: "Полные решения для переработки молока под ключ"};
+  title: "Inventa - Молочное оборудование",  description: "Полные решения для переработки молока под ключ"
+};
 
 export default function RootLayout({
   children,
