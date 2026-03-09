@@ -81,7 +81,7 @@ export default function ContactPage() {
             required: true,
           }}
           useInvertedBackground={false}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-business-meeting-in-modern--1773033989728-1ee45ec2.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-business-meeting-in-modern--1773033989728-1ee45ec2.png?_wi=3"
           imageAlt="Контакт и консультация"
           mediaAnimation="slide-up"
           mediaPosition="right"

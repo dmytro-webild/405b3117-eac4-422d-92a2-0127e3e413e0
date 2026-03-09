@@ -167,7 +167,7 @@ export default function HomePage() {
               value: "17+",
               title: "Лет опыта",
               description: "Лидирующий поставщик с 2008 года",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-workflow-s-1773033990882-ec842b30.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-workflow-s-1773033990882-ec842b30.png?_wi=1",
               imageAlt: "Опыт в молочном производстве",
             },
             {
@@ -175,7 +175,7 @@ export default function HomePage() {
               value: "100+",
               title: "Завершено проектов",
               description: "От мини-заводов до промышленных комплексов",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-completed-dairy-processing-facili-1773033991118-2dd6f8bf.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-completed-dairy-processing-facili-1773033991118-2dd6f8bf.png?_wi=1",
               imageAlt: "Завершенные проекты молочных заводов",
             },
             {
@@ -183,7 +183,7 @@ export default function HomePage() {
               value: "50+",
               title: "Активных клиентов",
               description: "Партнеры по всему миру",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-stainless-steel-milk-coolin-1773033990077-b9db6fba.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-stainless-steel-milk-coolin-1773033990077-b9db6fba.png?_wi=1",
               imageAlt: "Клиентская база Inventa",
             },
           ]}
@@ -206,7 +206,7 @@ export default function HomePage() {
               href: "#contact",
             },
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-workflow-s-1773033990882-ec842b30.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-dairy-processing-workflow-s-1773033990882-ec842b30.png?_wi=2"
           imageAlt="Процесс переработки молока Inventa"
           useInvertedBackground={false}
         />
@@ -228,7 +228,7 @@ export default function HomePage() {
               name: "Резервуар охлаждения молока",
               price: "По запросу",
               variant: "Высокоемкость, полная стерилизация",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-stainless-steel-milk-coolin-1773033990077-b9db6fba.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-stainless-steel-milk-coolin-1773033990077-b9db6fba.png?_wi=2",
               imageAlt: "Резервуар охлаждения молока",
               isFavorited: false,
             },
@@ -237,7 +237,7 @@ export default function HomePage() {
               name: "Сепаратор молока",
               price: "По запросу",
               variant: "Центрифужный, высокая точность",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-centrifugal-separator-for-dairy-p-1773033990844-29882dec.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/modern-centrifugal-separator-for-dairy-p-1773033990844-29882dec.png?_wi=1",
               imageAlt: "Сепаратор молока",
             },
             {
@@ -245,7 +245,7 @@ export default function HomePage() {
               name: "Пастеризатор",
               price: "По запросу",
               variant: "Система контроля температуры",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-pasteurization-equipment-wi-1773033990766-01e90238.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-pasteurization-equipment-wi-1773033990766-01e90238.png?_wi=1",
               imageAlt: "Оборудование для пастеризации",
             },
             {
@@ -253,7 +253,7 @@ export default function HomePage() {
               name: "Гомогенизатор",
               price: "По запросу",
               variant: "Высокое давление, точная эмульсия",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/advanced-homogenizer-equipment-for-dairy-1773033989752-80cbd4fb.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/advanced-homogenizer-equipment-for-dairy-1773033989752-80cbd4fb.png?_wi=1",
               imageAlt: "Гомогенизатор молока",
             },
           ]}
@@ -385,7 +385,7 @@ export default function HomePage() {
             required: true,
           }}
           useInvertedBackground={false}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-business-meeting-in-modern--1773033989728-1ee45ec2.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ah9MKFPAiLYJWPEswu8WowW7kP/professional-business-meeting-in-modern--1773033989728-1ee45ec2.png?_wi=1"
           imageAlt="Контакт и консультация"
           mediaAnimation="slide-up"
           mediaPosition="right"
